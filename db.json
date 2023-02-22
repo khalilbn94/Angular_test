@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "fname": "khalil",
+      "lname": "bn",
+      "email": "khalil@gmail.com"
+    },
+    {
+      "id": 2,
+      "fname": "khalil",
+      "lname": "bn",
+      "email": "khalil@gmail.com"
+    },
+    {
+      "id": 3,
+      "fname": "khalil",
+      "lname": "bn",
+      "email": "khalil@gmail.com"
+    },
+    {
+      "id": 4,
+      "fname": "khalil",
+      "lname": "bn",
+      "email": "khalil@gmail.com"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
